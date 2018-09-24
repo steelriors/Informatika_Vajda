@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1537786024 source:c:\users\vajda\desktop\elagazas_ism\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<ctime>
+
